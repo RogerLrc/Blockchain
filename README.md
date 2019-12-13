@@ -7,7 +7,8 @@
 进入code文件夹
 
 ```bash
-cd python-sdk && bash init_env.sh -p
+# 初始化环境
+bash init_env.sh -p
 
 # 激活python-sdk虚拟环境
 source ~/.bashrc && pyenv activate python-sdk && pip install --upgrade pip
