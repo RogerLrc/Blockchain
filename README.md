@@ -42,7 +42,7 @@ python main.py
 
 整体设计方案如图：
 
-![structure](https://github.com/RogerLrc/Blockchain/report/.png)
+![image](https://github.com/RogerLrc/Blockchain/blob/master/report/structure.png)
 
 
 
@@ -177,7 +177,7 @@ contract Trade{
 
 具体的存储内容为：
 
-![image](https://github.com/RogerLrc/Blockchain/report/storage.png)
+![image](https://github.com/RogerLrc/Blockchain/blob/master/report/storage.png)
 
 存储分为链上存储和本地存储，链上存储使用了solidity自带的基本数据结构和fisco提供的表结构，而本地存储则使用了python以及相关的库做文件管理。
 
