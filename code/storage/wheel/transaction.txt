@@ -1,0 +1,2 @@
+OwnedDebt car 1000 1 0xb7a506877cd874b0dc0ed1a43762193b60a7b6d4
+TransferDebt car hub 500 1 0x35ea6ab6035449acc289fdc313835e7c154ddb41

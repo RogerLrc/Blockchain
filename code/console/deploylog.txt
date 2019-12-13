@@ -1,0 +1,5 @@
+2019-12-12 03:34:01  [group:1]  Book:1.0              0xb835dd000a2b827920c88b56d3703e58df03a579
+2019-12-12 03:34:43  [group:1]  Trade:1.0             0x682b97b5a2853548b6e7c63802ada64cdcce1f75
+2019-12-12 03:49:15  [group:1]  Trade:2.0             0x80bdbbb084b8a1e1b6a5bb46869faa2b5db5bf1c
+2019-12-12 03:49:44  [group:1]  Book:3.0              0xcded9192583dca4f7e47e5b253dbfc5d0c5974ec
+2019-12-12 03:50:40  [group:1]  Trade:3.0             0x5881b872511fbcb1a46def2e0c9f12964df144a7

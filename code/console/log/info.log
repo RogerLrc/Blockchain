@@ -1,0 +1,192 @@
+[INFO] [2019-12-12 03:29:37] AbstractApplicationContext.prepareRefresh(583) | Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@6a6824be: startup date [Thu Dec 12 03:29:37 PST 2019]; root of context hierarchy
+[INFO] [2019-12-12 03:29:37] XmlBeanDefinitionReader.loadBeanDefinitions(317) | Loading XML bean definitions from class path resource [applicationContext.xml]
+[INFO] [2019-12-12 03:29:38] ChannelConnections.init(366) |  add connected node: 127.0.0.1:20200
+[INFO] [2019-12-12 03:29:38] ChannelConnections.reconnect(503) | try connect to: 127.0.0.1:20200
+[INFO] [2019-12-12 03:29:38] ConnectionCallback.onConnect(91) |  connect 127.0.0.1:20200 success, ctx: 909179273
+[INFO] [2019-12-12 03:29:38] ConnectionCallback.queryNodeVersion(207) |  query node version host: 127.0.0.1:20200, seq: 4a02444992a44f49bad3ebe95d0e1c65, content: {"jsonrpc":"2.0","method":"getClientVersion","params":[],"id":0}
+[INFO] [2019-12-12 03:29:40] ChannelConnections.reconnect(503) | try connect to: 127.0.0.1:20200
+[INFO] [2019-12-12 03:29:40] ConnectionCallback.onConnect(91) |  connect 127.0.0.1:20200 success, ctx: 351709654
+[INFO] [2019-12-12 03:29:40] ConnectionCallback.queryNodeVersion(207) |  query node version host: 127.0.0.1:20200, seq: b02f66ba4fec4a50a2b59089f96656a6, content: {"jsonrpc":"2.0","method":"getClientVersion","params":[],"id":1}
+[INFO] [2019-12-12 03:29:42] ChannelConnections.reconnect(503) | try connect to: 127.0.0.1:20200
+[INFO] [2019-12-12 03:29:42] ConnectionCallback.onConnect(91) |  connect 127.0.0.1:20200 success, ctx: 1829502260
+[INFO] [2019-12-12 03:29:42] ConnectionCallback.queryNodeVersion(207) |  query node version host: 127.0.0.1:20200, seq: 078434934292411585ea123efdf001ed, content: {"jsonrpc":"2.0","method":"getClientVersion","params":[],"id":2}
+[INFO] [2019-12-12 03:29:43] ConnectionCallback$2.onResponse(234) |  query node version timeout, content: 
+[INFO] [2019-12-12 03:29:43] ConnectionCallback.subBlockNotification(338) |  send sub block notification request, seq: 323d043aa902446eabc62364b3020282, content: ["_block_notify_1"]
+[INFO] [2019-12-12 03:29:43] ConnectionCallback.queryBlockNumber(370) |  query block number host: 127.0.0.1:20200, seq: c3922b8365f64405a62fe5afc4091b28, content: {"jsonrpc":"2.0","method":"getBlockNumber","params":[1],"id":3}
+[INFO] [2019-12-12 03:29:44] ChannelConnections.reconnect(503) | try connect to: 127.0.0.1:20200
+[INFO] [2019-12-12 03:29:44] ConnectionCallback.onConnect(91) |  connect 127.0.0.1:20200 success, ctx: 898959121
+[INFO] [2019-12-12 03:29:44] ConnectionCallback.queryNodeVersion(207) |  query node version host: 127.0.0.1:20200, seq: afdfe9398cbd4f20b49917a2cc53b419, content: {"jsonrpc":"2.0","method":"getClientVersion","params":[],"id":4}
+[INFO] [2019-12-12 03:29:45] ConnectionCallback$2.onResponse(234) |  query node version timeout, content: 
+[INFO] [2019-12-12 03:29:45] ConnectionCallback.subBlockNotification(338) |  send sub block notification request, seq: 2f6bd683a3e24d1480d45f6a4c64e84f, content: ["_block_notify_1"]
+[INFO] [2019-12-12 03:29:45] ConnectionCallback.queryBlockNumber(370) |  query block number host: 127.0.0.1:20200, seq: bab29291f8af45b9a1d757221e398c7f, content: {"jsonrpc":"2.0","method":"getBlockNumber","params":[1],"id":5}
+[INFO] [2019-12-12 03:29:46] ChannelConnections.reconnect(503) | try connect to: 127.0.0.1:20200
+[INFO] [2019-12-12 03:29:46] ConnectionCallback.onConnect(91) |  connect 127.0.0.1:20200 success, ctx: 333120255
+[INFO] [2019-12-12 03:29:46] ConnectionCallback.queryNodeVersion(207) |  query node version host: 127.0.0.1:20200, seq: 5da7f2d350f14663ba35f1e21100dd40, content: {"jsonrpc":"2.0","method":"getClientVersion","params":[],"id":6}
+[INFO] [2019-12-12 03:29:47] ConnectionCallback$2.onResponse(234) |  query node version timeout, content: 
+[INFO] [2019-12-12 03:29:47] ConnectionCallback.subBlockNotification(338) |  send sub block notification request, seq: 6006a9956c274bbdb5a08d05643cce19, content: ["_block_notify_1"]
+[INFO] [2019-12-12 03:29:47] ConnectionCallback.queryBlockNumber(370) |  query block number host: 127.0.0.1:20200, seq: a871fd5157864be792df736f7e191cf4, content: {"jsonrpc":"2.0","method":"getBlockNumber","params":[1],"id":7}
+[INFO] [2019-12-12 03:29:48] ChannelConnections.reconnect(503) | try connect to: 127.0.0.1:20200
+[INFO] [2019-12-12 03:29:48] ConnectionCallback.onConnect(91) |  connect 127.0.0.1:20200 success, ctx: 1617272476
+[INFO] [2019-12-12 03:29:48] ConnectionCallback.queryNodeVersion(207) |  query node version host: 127.0.0.1:20200, seq: 760997f39cc042ef8af948d4469f4686, content: {"jsonrpc":"2.0","method":"getClientVersion","params":[],"id":8}
+[INFO] [2019-12-12 03:29:49] ConnectionCallback$2.onResponse(234) |  query node version timeout, content: 
+[INFO] [2019-12-12 03:29:49] ConnectionCallback.subBlockNotification(338) |  send sub block notification request, seq: c3d470d0020a4a43887784c2e24cf19f, content: ["_block_notify_1"]
+[INFO] [2019-12-12 03:29:49] ConnectionCallback.queryBlockNumber(370) |  query block number host: 127.0.0.1:20200, seq: b7ea400bf1834caab0e0e05a0b11eb51, content: {"jsonrpc":"2.0","method":"getBlockNumber","params":[1],"id":9}
+[INFO] [2019-12-12 03:29:50] ChannelConnections.reconnect(503) | try connect to: 127.0.0.1:20200
+[INFO] [2019-12-12 03:29:50] ConnectionCallback.onConnect(91) |  connect 127.0.0.1:20200 success, ctx: 1109911405
+[INFO] [2019-12-12 03:29:50] ConnectionCallback.queryNodeVersion(207) |  query node version host: 127.0.0.1:20200, seq: b090080a83fe4aba9a8c9c1486cf5fb5, content: {"jsonrpc":"2.0","method":"getClientVersion","params":[],"id":10}
+[INFO] [2019-12-12 03:29:51] ConnectionCallback$2.onResponse(234) |  query node version timeout, content: 
+[INFO] [2019-12-12 03:29:51] ConnectionCallback.subBlockNotification(338) |  send sub block notification request, seq: 0c94a438123f49afa8023b3694329d92, content: ["_block_notify_1"]
+[INFO] [2019-12-12 03:29:51] ConnectionCallback.queryBlockNumber(370) |  query block number host: 127.0.0.1:20200, seq: e3ec3185848e43cea6ef4e3cda37a7bf, content: {"jsonrpc":"2.0","method":"getBlockNumber","params":[1],"id":11}
+[INFO] [2019-12-12 03:29:52] ChannelConnections.reconnect(503) | try connect to: 127.0.0.1:20200
+[INFO] [2019-12-12 03:29:52] ConnectionCallback.onConnect(91) |  connect 127.0.0.1:20200 success, ctx: 2089306571
+[INFO] [2019-12-12 03:29:52] ConnectionCallback.queryNodeVersion(207) |  query node version host: 127.0.0.1:20200, seq: 0177f86fa7164efaa9dfe6352e2bcae9, content: {"jsonrpc":"2.0","method":"getClientVersion","params":[],"id":12}
+[INFO] [2019-12-12 03:29:53] ConnectionCallback$2.onResponse(234) |  query node version timeout, content: 
+[INFO] [2019-12-12 03:29:53] ConnectionCallback.subBlockNotification(338) |  send sub block notification request, seq: 6d95ec8357aa45c2a5a8911ec86003e1, content: ["_block_notify_1"]
+[INFO] [2019-12-12 03:29:53] ConnectionCallback.queryBlockNumber(370) |  query block number host: 127.0.0.1:20200, seq: d55bfd52dfca471188f20f429effef17, content: {"jsonrpc":"2.0","method":"getBlockNumber","params":[1],"id":13}
+[INFO] [2019-12-12 03:29:54] ChannelConnections.reconnect(503) | try connect to: 127.0.0.1:20200
+[INFO] [2019-12-12 03:29:54] ConnectionCallback.onConnect(91) |  connect 127.0.0.1:20200 success, ctx: 1526187350
+[INFO] [2019-12-12 03:29:54] ConnectionCallback.queryNodeVersion(207) |  query node version host: 127.0.0.1:20200, seq: b8fce8e13d9e4768affb49a598c46398, content: {"jsonrpc":"2.0","method":"getClientVersion","params":[],"id":14}
+[INFO] [2019-12-12 03:29:55] ConnectionCallback$2.onResponse(234) |  query node version timeout, content: 
+[INFO] [2019-12-12 03:29:55] ConnectionCallback.subBlockNotification(338) |  send sub block notification request, seq: ee89136027e24865b97cefbd1c13227b, content: ["_block_notify_1"]
+[INFO] [2019-12-12 03:29:55] ConnectionCallback.queryBlockNumber(370) |  query block number host: 127.0.0.1:20200, seq: be53d28391224bfb808e2f222d8fe9c3, content: {"jsonrpc":"2.0","method":"getBlockNumber","params":[1],"id":15}
+[INFO] [2019-12-12 03:29:56] ChannelConnections.reconnect(503) | try connect to: 127.0.0.1:20200
+[INFO] [2019-12-12 03:29:56] ConnectionCallback.onConnect(91) |  connect 127.0.0.1:20200 success, ctx: 942941478
+[INFO] [2019-12-12 03:29:56] ConnectionCallback.queryNodeVersion(207) |  query node version host: 127.0.0.1:20200, seq: 5c143a5601dd4075bfacfdb8201cd2c7, content: {"jsonrpc":"2.0","method":"getClientVersion","params":[],"id":16}
+[INFO] [2019-12-12 03:29:57] ConnectionCallback$2.onResponse(234) |  query node version timeout, content: 
+[INFO] [2019-12-12 03:29:57] ConnectionCallback.subBlockNotification(338) |  send sub block notification request, seq: 1677ee81ae9f40b4ad913e025be38b08, content: ["_block_notify_1"]
+[INFO] [2019-12-12 03:29:57] ConnectionCallback.queryBlockNumber(370) |  query block number host: 127.0.0.1:20200, seq: a3f1468eb1a242169ae3464c11e7f4d0, content: {"jsonrpc":"2.0","method":"getBlockNumber","params":[1],"id":17}
+[INFO] [2019-12-12 03:29:58] ChannelConnections.reconnect(503) | try connect to: 127.0.0.1:20200
+[INFO] [2019-12-12 03:29:58] ConnectionCallback.onConnect(91) |  connect 127.0.0.1:20200 success, ctx: 1077960953
+[INFO] [2019-12-12 03:29:58] ConnectionCallback.queryNodeVersion(207) |  query node version host: 127.0.0.1:20200, seq: 8bb84151ed384d23acd9ce434b10ddfc, content: {"jsonrpc":"2.0","method":"getClientVersion","params":[],"id":18}
+[INFO] [2019-12-12 03:29:59] ConnectionCallback$2.onResponse(234) |  query node version timeout, content: 
+[INFO] [2019-12-12 03:29:59] ConnectionCallback.subBlockNotification(338) |  send sub block notification request, seq: 93d086eb74cf47018707fe3319ff7843, content: ["_block_notify_1"]
+[INFO] [2019-12-12 03:29:59] ConnectionCallback.queryBlockNumber(370) |  query block number host: 127.0.0.1:20200, seq: b3552299bcc84ef39eac2816ad7db2b9, content: {"jsonrpc":"2.0","method":"getBlockNumber","params":[1],"id":19}
+[INFO] [2019-12-12 03:30:00] ChannelConnections.reconnect(503) | try connect to: 127.0.0.1:20200
+[INFO] [2019-12-12 03:30:00] ConnectionCallback.onConnect(91) |  connect 127.0.0.1:20200 success, ctx: 1453492762
+[INFO] [2019-12-12 03:30:00] ConnectionCallback.queryNodeVersion(207) |  query node version host: 127.0.0.1:20200, seq: b37752ed059c41f6b8604e5e16502f20, content: {"jsonrpc":"2.0","method":"getClientVersion","params":[],"id":20}
+[INFO] [2019-12-12 03:30:01] ConnectionCallback$2.onResponse(234) |  query node version timeout, content: 
+[INFO] [2019-12-12 03:30:01] ConnectionCallback.subBlockNotification(338) |  send sub block notification request, seq: 4d22959d36a249579927499cf12d59f5, content: ["_block_notify_1"]
+[INFO] [2019-12-12 03:30:01] ConnectionCallback.queryBlockNumber(370) |  query block number host: 127.0.0.1:20200, seq: 1801044328d74bbdb9267fd5f09f89d8, content: {"jsonrpc":"2.0","method":"getBlockNumber","params":[1],"id":21}
+[INFO] [2019-12-12 03:30:02] ChannelConnections.reconnect(503) | try connect to: 127.0.0.1:20200
+[INFO] [2019-12-12 03:30:02] ConnectionCallback.onConnect(91) |  connect 127.0.0.1:20200 success, ctx: 654233157
+[INFO] [2019-12-12 03:30:02] ConnectionCallback.queryNodeVersion(207) |  query node version host: 127.0.0.1:20200, seq: 4c89f22985654258a276aa9adb0a2293, content: {"jsonrpc":"2.0","method":"getClientVersion","params":[],"id":22}
+[INFO] [2019-12-12 03:30:03] ConnectionCallback$2.onResponse(234) |  query node version timeout, content: 
+[INFO] [2019-12-12 03:30:03] ConnectionCallback.subBlockNotification(338) |  send sub block notification request, seq: 56a15e20916945e182da385bf52c062c, content: ["_block_notify_1"]
+[INFO] [2019-12-12 03:30:03] ConnectionCallback.queryBlockNumber(370) |  query block number host: 127.0.0.1:20200, seq: dd6ae819ac294c57b20eeeedfc940219, content: {"jsonrpc":"2.0","method":"getBlockNumber","params":[1],"id":23}
+[INFO] [2019-12-12 03:30:04] ChannelConnections.reconnect(503) | try connect to: 127.0.0.1:20200
+[INFO] [2019-12-12 03:30:04] ConnectionCallback.onConnect(91) |  connect 127.0.0.1:20200 success, ctx: 1634527
+[INFO] [2019-12-12 03:30:04] ConnectionCallback.queryNodeVersion(207) |  query node version host: 127.0.0.1:20200, seq: 35d976ad2d55472e8a9fb06ca2409b62, content: {"jsonrpc":"2.0","method":"getClientVersion","params":[],"id":24}
+[INFO] [2019-12-12 03:30:05] ConnectionCallback$2.onResponse(234) |  query node version timeout, content: 
+[INFO] [2019-12-12 03:30:05] ConnectionCallback.subBlockNotification(338) |  send sub block notification request, seq: 503438c5274c4afd8b363554b368bde9, content: ["_block_notify_1"]
+[INFO] [2019-12-12 03:30:05] ConnectionCallback.queryBlockNumber(370) |  query block number host: 127.0.0.1:20200, seq: f8f7a76a5a4b416e936d1717b3a9c464, content: {"jsonrpc":"2.0","method":"getBlockNumber","params":[1],"id":25}
+[INFO] [2019-12-12 03:30:06] ChannelConnections.reconnect(503) | try connect to: 127.0.0.1:20200
+[INFO] [2019-12-12 03:30:06] ConnectionCallback.onConnect(91) |  connect 127.0.0.1:20200 success, ctx: 273999448
+[INFO] [2019-12-12 03:30:06] ConnectionCallback.queryNodeVersion(207) |  query node version host: 127.0.0.1:20200, seq: dad06e69fec84d8dba2bf3827a84ebd4, content: {"jsonrpc":"2.0","method":"getClientVersion","params":[],"id":26}
+[INFO] [2019-12-12 03:30:07] ConnectionCallback$2.onResponse(234) |  query node version timeout, content: 
+[INFO] [2019-12-12 03:30:07] ConnectionCallback.subBlockNotification(338) |  send sub block notification request, seq: 779951d3a43d43cb95b592902a6596df, content: ["_block_notify_1"]
+[INFO] [2019-12-12 03:30:07] ConnectionCallback.queryBlockNumber(370) |  query block number host: 127.0.0.1:20200, seq: 32f38df5e93a48cdbd69b1e048fc6230, content: {"jsonrpc":"2.0","method":"getBlockNumber","params":[1],"id":27}
+[INFO] [2019-12-12 03:30:08] ChannelConnections.reconnect(503) | try connect to: 127.0.0.1:20200
+[INFO] [2019-12-12 03:30:08] ConnectionCallback.onConnect(91) |  connect 127.0.0.1:20200 success, ctx: 1716175888
+[INFO] [2019-12-12 03:30:08] ConnectionCallback.queryNodeVersion(207) |  query node version host: 127.0.0.1:20200, seq: b1a327bb773d41ef89d9f420e3620a3d, content: {"jsonrpc":"2.0","method":"getClientVersion","params":[],"id":28}
+[INFO] [2019-12-12 03:30:09] ConnectionCallback$2.onResponse(234) |  query node version timeout, content: 
+[INFO] [2019-12-12 03:30:09] ConnectionCallback.subBlockNotification(338) |  send sub block notification request, seq: 5b53193d21494e7d8edf408786d2b2e2, content: ["_block_notify_1"]
+[INFO] [2019-12-12 03:30:09] ConnectionCallback.queryBlockNumber(370) |  query block number host: 127.0.0.1:20200, seq: 3e48c9d19a844790a143939f6e345250, content: {"jsonrpc":"2.0","method":"getBlockNumber","params":[1],"id":29}
+[INFO] [2019-12-12 03:30:10] ChannelConnections.reconnect(503) | try connect to: 127.0.0.1:20200
+[INFO] [2019-12-12 03:30:10] ConnectionCallback.onConnect(91) |  connect 127.0.0.1:20200 success, ctx: 1191548364
+[INFO] [2019-12-12 03:30:10] ConnectionCallback.queryNodeVersion(207) |  query node version host: 127.0.0.1:20200, seq: cb8a97018ca64af1b072a3cb9ae6e30d, content: {"jsonrpc":"2.0","method":"getClientVersion","params":[],"id":30}
+[INFO] [2019-12-12 03:30:11] ConnectionCallback$2.onResponse(234) |  query node version timeout, content: 
+[INFO] [2019-12-12 03:30:11] ConnectionCallback.subBlockNotification(338) |  send sub block notification request, seq: 1f5e1aff2bc549b5ad9f414cdb04f4a6, content: ["_block_notify_1"]
+[INFO] [2019-12-12 03:30:11] ConnectionCallback.queryBlockNumber(370) |  query block number host: 127.0.0.1:20200, seq: 6373d6ac041a4266b1901a5df920e10a, content: {"jsonrpc":"2.0","method":"getBlockNumber","params":[1],"id":31}
+[INFO] [2019-12-12 03:30:12] ChannelConnections.reconnect(503) | try connect to: 127.0.0.1:20200
+[INFO] [2019-12-12 03:30:12] ConnectionCallback.onConnect(91) |  connect 127.0.0.1:20200 success, ctx: 1932983173
+[INFO] [2019-12-12 03:30:12] ConnectionCallback.queryNodeVersion(207) |  query node version host: 127.0.0.1:20200, seq: 6b30fe94e2d84642bba94c5b6ecc0b08, content: {"jsonrpc":"2.0","method":"getClientVersion","params":[],"id":32}
+[INFO] [2019-12-12 03:30:13] ConnectionCallback$2.onResponse(234) |  query node version timeout, content: 
+[INFO] [2019-12-12 03:30:13] ConnectionCallback.subBlockNotification(338) |  send sub block notification request, seq: 897a2ee46dab4116b0b703e32c58434f, content: ["_block_notify_1"]
+[INFO] [2019-12-12 03:30:13] ConnectionCallback.queryBlockNumber(370) |  query block number host: 127.0.0.1:20200, seq: 1f922bdde7834ba3b27293c6494a9b13, content: {"jsonrpc":"2.0","method":"getBlockNumber","params":[1],"id":33}
+[INFO] [2019-12-12 03:30:14] ChannelConnections.reconnect(503) | try connect to: 127.0.0.1:20200
+[INFO] [2019-12-12 03:30:14] ConnectionCallback.onConnect(91) |  connect 127.0.0.1:20200 success, ctx: 1246924421
+[INFO] [2019-12-12 03:30:14] ConnectionCallback.queryNodeVersion(207) |  query node version host: 127.0.0.1:20200, seq: 1818152400cd4c82bf4abb3e143e44fc, content: {"jsonrpc":"2.0","method":"getClientVersion","params":[],"id":34}
+[INFO] [2019-12-12 03:30:15] ConnectionCallback$2.onResponse(234) |  query node version timeout, content: 
+[INFO] [2019-12-12 03:30:15] ConnectionCallback.subBlockNotification(338) |  send sub block notification request, seq: 7889e5af5ae44c87b7fa879de6dd1ba6, content: ["_block_notify_1"]
+[INFO] [2019-12-12 03:30:15] ConnectionCallback.queryBlockNumber(370) |  query block number host: 127.0.0.1:20200, seq: 6c533ca0c49f441281f8705ea373c5b7, content: {"jsonrpc":"2.0","method":"getBlockNumber","params":[1],"id":35}
+[INFO] [2019-12-12 03:30:16] ChannelConnections.reconnect(503) | try connect to: 127.0.0.1:20200
+[INFO] [2019-12-12 03:30:16] ConnectionCallback.onConnect(91) |  connect 127.0.0.1:20200 success, ctx: 1420487228
+[INFO] [2019-12-12 03:30:16] ConnectionCallback.queryNodeVersion(207) |  query node version host: 127.0.0.1:20200, seq: 18aeb83563454a339d86d3115c39623c, content: {"jsonrpc":"2.0","method":"getClientVersion","params":[],"id":36}
+[INFO] [2019-12-12 03:30:17] ConnectionCallback$2.onResponse(234) |  query node version timeout, content: 
+[INFO] [2019-12-12 03:30:17] ConnectionCallback.subBlockNotification(338) |  send sub block notification request, seq: db509cb16d4c4f8381de2fa76123a60e, content: ["_block_notify_1"]
+[INFO] [2019-12-12 03:30:17] ConnectionCallback.queryBlockNumber(370) |  query block number host: 127.0.0.1:20200, seq: c3f055dd86424c2788a9995c992975ca, content: {"jsonrpc":"2.0","method":"getBlockNumber","params":[1],"id":37}
+[INFO] [2019-12-12 03:30:18] ChannelConnections.reconnect(503) | try connect to: 127.0.0.1:20200
+[INFO] [2019-12-12 03:30:18] ConnectionCallback.onConnect(91) |  connect 127.0.0.1:20200 success, ctx: 1547695166
+[INFO] [2019-12-12 03:30:18] ConnectionCallback.queryNodeVersion(207) |  query node version host: 127.0.0.1:20200, seq: a172fe18445c447680e7a0704b9ef83c, content: {"jsonrpc":"2.0","method":"getClientVersion","params":[],"id":38}
+[INFO] [2019-12-12 03:30:19] ConnectionCallback$2.onResponse(234) |  query node version timeout, content: 
+[INFO] [2019-12-12 03:30:19] ConnectionCallback.subBlockNotification(338) |  send sub block notification request, seq: 475e9d8a57244817970fdbb4b45018c3, content: ["_block_notify_1"]
+[INFO] [2019-12-12 03:30:19] ConnectionCallback.queryBlockNumber(370) |  query block number host: 127.0.0.1:20200, seq: 06bda911033349ca976d27517323a8a9, content: {"jsonrpc":"2.0","method":"getBlockNumber","params":[1],"id":39}
+[INFO] [2019-12-12 03:30:20] ChannelConnections.reconnect(503) | try connect to: 127.0.0.1:20200
+[INFO] [2019-12-12 03:30:20] ConnectionCallback.onConnect(91) |  connect 127.0.0.1:20200 success, ctx: 87015868
+[INFO] [2019-12-12 03:30:20] ConnectionCallback.queryNodeVersion(207) |  query node version host: 127.0.0.1:20200, seq: cee80d1a396a4578ae19209d93c0c509, content: {"jsonrpc":"2.0","method":"getClientVersion","params":[],"id":40}
+[INFO] [2019-12-12 03:30:21] ConnectionCallback$2.onResponse(234) |  query node version timeout, content: 
+[INFO] [2019-12-12 03:30:21] ConnectionCallback.subBlockNotification(338) |  send sub block notification request, seq: fb2526e007204a42be42aef3cde92e6a, content: ["_block_notify_1"]
+[INFO] [2019-12-12 03:30:21] ConnectionCallback.queryBlockNumber(370) |  query block number host: 127.0.0.1:20200, seq: 3c1039b390d045068691ccc8a09484e1, content: {"jsonrpc":"2.0","method":"getBlockNumber","params":[1],"id":41}
+[INFO] [2019-12-12 03:30:22] ChannelConnections.reconnect(503) | try connect to: 127.0.0.1:20200
+[INFO] [2019-12-12 03:30:22] ConnectionCallback.onConnect(91) |  connect 127.0.0.1:20200 success, ctx: 1588733721
+[INFO] [2019-12-12 03:30:22] ConnectionCallback.queryNodeVersion(207) |  query node version host: 127.0.0.1:20200, seq: 80e509a4ba5f41c0b58b9665706f6b84, content: {"jsonrpc":"2.0","method":"getClientVersion","params":[],"id":42}
+[INFO] [2019-12-12 03:31:21] AbstractApplicationContext.prepareRefresh(583) | Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@6a6824be: startup date [Thu Dec 12 03:31:21 PST 2019]; root of context hierarchy
+[INFO] [2019-12-12 03:31:21] XmlBeanDefinitionReader.loadBeanDefinitions(317) | Loading XML bean definitions from class path resource [applicationContext.xml]
+[INFO] [2019-12-12 03:31:22] ChannelConnections.init(366) |  add connected node: 127.0.0.1:20200
+[INFO] [2019-12-12 03:31:23] ChannelConnections.reconnect(503) | try connect to: 127.0.0.1:20200
+[INFO] [2019-12-12 03:31:23] ConnectionCallback.onConnect(91) |  connect 127.0.0.1:20200 success, ctx: 909179273
+[INFO] [2019-12-12 03:31:23] ConnectionCallback.queryNodeVersion(207) |  query node version host: 127.0.0.1:20200, seq: 22aef5482b5f4154bf93967f1ea46252, content: {"jsonrpc":"2.0","method":"getClientVersion","params":[],"id":0}
+[INFO] [2019-12-12 03:31:23] ConnectionCallback$2.onResponse(258) |  node: Version [buildTime=20190923 13:22:09, buildType=Linux/clang/Release, chainID=1, version=2.1.0, gitBranch=HEAD, gitCommit=cb68124d4fbf3df563a57dfff5f0c6eedc1419cc, supportedVersion=2.1.0], content: {"id":0,"jsonrpc":"2.0","result":{"Build Time":"20190923 13:22:09","Build Type":"Linux/clang/Release","Chain Id":"1","FISCO-BCOS Version":"2.1.0","Git Branch":"HEAD","Git Commit Hash":"cb68124d4fbf3df563a57dfff5f0c6eedc1419cc","Supported Version":"2.1.0"}}
+
+[INFO] [2019-12-12 03:31:23] ConnectionCallback$2.onResponse(267) |  support channel handshake node: Version [buildTime=20190923 13:22:09, buildType=Linux/clang/Release, chainID=1, version=2.1.0, gitBranch=HEAD, gitCommit=cb68124d4fbf3df563a57dfff5f0c6eedc1419cc, supportedVersion=2.1.0], content: {"id":0,"jsonrpc":"2.0","result":{"Build Time":"20190923 13:22:09","Build Type":"Linux/clang/Release","Chain Id":"1","FISCO-BCOS Version":"2.1.0","Git Branch":"HEAD","Git Commit Hash":"cb68124d4fbf3df563a57dfff5f0c6eedc1419cc","Supported Version":"2.1.0"}}
+
+[INFO] [2019-12-12 03:31:23] ConnectionCallback$1.onResponse(167) |  channel protocol handshake success, set socket channel protocol, host: 127.0.0.1:20200, channel protocol: ChannelProtocol [protocol=2, nodeVersion=2.1.0, EnumProtocol=VERSION_2]
+[INFO] [2019-12-12 03:31:23] ConnectionCallback.subBlockNotification(338) |  send sub block notification request, seq: 80a14bae130b4da690ab8f429f8e1bf3, content: ["_block_notify_1"]
+[INFO] [2019-12-12 03:31:23] ConnectionCallback.queryBlockNumber(370) |  query block number host: 127.0.0.1:20200, seq: a5608f10a5e44cee854f9f7a51bb22ff, content: {"jsonrpc":"2.0","method":"getBlockNumber","params":[1],"id":1}
+[INFO] [2019-12-12 03:31:23] ConnectionCallback$4.onResponse(395) |  query blocknumer, host:127.0.0.1:20200, blockNumber: 0 
+[INFO] [2019-12-12 03:34:00] Async.run(19) |  default set setExeutor , pool size is 50
+[INFO] [2019-12-12 03:34:00] Async.setExeutor(81) |  set setExeutor because executor null, executor is java.util.concurrent.ThreadPoolExecutor@31611954[Running, pool size = 0, active threads = 0, queued tasks = 0, completed tasks = 0]
+[INFO] [2019-12-12 03:34:00] Service.onReceiveBlockNotify(1316) | Receive block notify: {"blockNumber":1,"groupID":1}
+
+[INFO] [2019-12-12 03:34:01] Service.onReceiveBlockNotify(1316) | Receive block notify: {"blockNumber":2,"groupID":1}
+
+[INFO] [2019-12-12 03:34:43] Service.onReceiveBlockNotify(1316) | Receive block notify: {"blockNumber":3,"groupID":1}
+
+[INFO] [2019-12-12 03:34:43] Service.onReceiveBlockNotify(1316) | Receive block notify: {"blockNumber":4,"groupID":1}
+
+[INFO] [2019-12-12 03:37:18] Service.onReceiveBlockNotify(1316) | Receive block notify: {"blockNumber":5,"groupID":1}
+
+[INFO] [2019-12-12 03:39:27] Service.onReceiveBlockNotify(1316) | Receive block notify: {"blockNumber":6,"groupID":1}
+
+[INFO] [2019-12-12 03:48:39] AbstractApplicationContext.prepareRefresh(583) | Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@6a6824be: startup date [Thu Dec 12 03:48:39 PST 2019]; root of context hierarchy
+[INFO] [2019-12-12 03:48:39] XmlBeanDefinitionReader.loadBeanDefinitions(317) | Loading XML bean definitions from class path resource [applicationContext.xml]
+[INFO] [2019-12-12 03:48:40] ChannelConnections.init(366) |  add connected node: 127.0.0.1:20200
+[INFO] [2019-12-12 03:48:41] ChannelConnections.reconnect(503) | try connect to: 127.0.0.1:20200
+[INFO] [2019-12-12 03:48:41] ConnectionCallback.onConnect(91) |  connect 127.0.0.1:20200 success, ctx: 784283545
+[INFO] [2019-12-12 03:48:41] ConnectionCallback.queryNodeVersion(207) |  query node version host: 127.0.0.1:20200, seq: 8c9186dc4cab458fba03306c1ffa083b, content: {"jsonrpc":"2.0","method":"getClientVersion","params":[],"id":0}
+[INFO] [2019-12-12 03:48:41] ConnectionCallback$2.onResponse(258) |  node: Version [buildTime=20190923 13:22:09, buildType=Linux/clang/Release, chainID=1, version=2.1.0, gitBranch=HEAD, gitCommit=cb68124d4fbf3df563a57dfff5f0c6eedc1419cc, supportedVersion=2.1.0], content: {"id":0,"jsonrpc":"2.0","result":{"Build Time":"20190923 13:22:09","Build Type":"Linux/clang/Release","Chain Id":"1","FISCO-BCOS Version":"2.1.0","Git Branch":"HEAD","Git Commit Hash":"cb68124d4fbf3df563a57dfff5f0c6eedc1419cc","Supported Version":"2.1.0"}}
+
+[INFO] [2019-12-12 03:48:41] ConnectionCallback$2.onResponse(267) |  support channel handshake node: Version [buildTime=20190923 13:22:09, buildType=Linux/clang/Release, chainID=1, version=2.1.0, gitBranch=HEAD, gitCommit=cb68124d4fbf3df563a57dfff5f0c6eedc1419cc, supportedVersion=2.1.0], content: {"id":0,"jsonrpc":"2.0","result":{"Build Time":"20190923 13:22:09","Build Type":"Linux/clang/Release","Chain Id":"1","FISCO-BCOS Version":"2.1.0","Git Branch":"HEAD","Git Commit Hash":"cb68124d4fbf3df563a57dfff5f0c6eedc1419cc","Supported Version":"2.1.0"}}
+
+[INFO] [2019-12-12 03:48:41] ConnectionCallback$1.onResponse(167) |  channel protocol handshake success, set socket channel protocol, host: 127.0.0.1:20200, channel protocol: ChannelProtocol [protocol=2, nodeVersion=2.1.0, EnumProtocol=VERSION_2]
+[INFO] [2019-12-12 03:48:41] ConnectionCallback.subBlockNotification(338) |  send sub block notification request, seq: 406327a976e9443b8930e709a81d9c41, content: ["_block_notify_1"]
+[INFO] [2019-12-12 03:48:41] ConnectionCallback.queryBlockNumber(370) |  query block number host: 127.0.0.1:20200, seq: 625ac0ddd0684f75966bea66dd9ab313, content: {"jsonrpc":"2.0","method":"getBlockNumber","params":[1],"id":1}
+[INFO] [2019-12-12 03:48:41] ConnectionCallback$4.onResponse(395) |  query blocknumer, host:127.0.0.1:20200, blockNumber: 6 
+[INFO] [2019-12-12 03:49:15] Async.run(19) |  default set setExeutor , pool size is 50
+[INFO] [2019-12-12 03:49:15] Async.setExeutor(81) |  set setExeutor because executor null, executor is java.util.concurrent.ThreadPoolExecutor@3766c667[Running, pool size = 0, active threads = 0, queued tasks = 0, completed tasks = 0]
+[INFO] [2019-12-12 03:49:15] Service.onReceiveBlockNotify(1316) | Receive block notify: {"blockNumber":7,"groupID":1}
+
+[INFO] [2019-12-12 03:49:15] Service.onReceiveBlockNotify(1316) | Receive block notify: {"blockNumber":8,"groupID":1}
+
+[INFO] [2019-12-12 03:49:43] Service.onReceiveBlockNotify(1316) | Receive block notify: {"blockNumber":9,"groupID":1}
+
+[INFO] [2019-12-12 03:49:44] Service.onReceiveBlockNotify(1316) | Receive block notify: {"blockNumber":10,"groupID":1}
+
+[INFO] [2019-12-12 03:50:40] Service.onReceiveBlockNotify(1316) | Receive block notify: {"blockNumber":11,"groupID":1}
+
+[INFO] [2019-12-12 03:50:40] Service.onReceiveBlockNotify(1316) | Receive block notify: {"blockNumber":12,"groupID":1}
+
+[INFO] [2019-12-12 03:52:07] Service.onReceiveBlockNotify(1316) | Receive block notify: {"blockNumber":13,"groupID":1}
+
+[INFO] [2019-12-12 03:53:30] Service.onReceiveBlockNotify(1316) | Receive block notify: {"blockNumber":14,"groupID":1}
+
